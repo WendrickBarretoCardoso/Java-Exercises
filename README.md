@@ -3,7 +3,7 @@
 
 #### Lista de exercícios: https://wiki.python.org.br/ListaDeExercicios
 
-1. [EstruturaSequencial](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-%20sequentialStructure)         16 / 18
+1. [EstruturaSequencial](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-%20sequentialStructure)         18 / 18
 2. EstruturaDeDecisao          00 / 28
 3. EstruturaDeRepeticao        00 / 51
 4. ExerciciosListas            00 / 24
