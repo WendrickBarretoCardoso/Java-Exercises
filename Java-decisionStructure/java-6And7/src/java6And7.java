@@ -29,7 +29,6 @@ public class java6And7 {
                     output = String.format("O número %.2f é o maior, e %.2f é o menor", num2, num3);
                 } else {
                     output = String.format("O número %.2f é o maior, e %.2f é o menor", num2, num1);
-                    output = String.format("O número %.2f é o maior, e %.2f é o menor", num2, num1);
                 }
             } else {
                 output = String.format("O número %.2f é o maior, e %.2f é o menor", num3, num1);

@@ -10,6 +10,7 @@ public class java3 {
         while (!sexo.equals("M") && !sexo.equals("F") ) {
             System.out.print("Resposta Inválida!\nRepita a resposta: ");
             sexo = scan.nextLine();
+            sexo = sexo.toUpperCase();
         }
 
         if (sexo.equals("M")) {
