@@ -13,4 +13,4 @@
 8. Exercicios Classes           00 / 17
 9. Lista De Exercicios  Projetos   00 / 03
 
-VAMOS QUE VAMOS!!!!!!
+VAMOS QUE VAMOS!!!!!!!
