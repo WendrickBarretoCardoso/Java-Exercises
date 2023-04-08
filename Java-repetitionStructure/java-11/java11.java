@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java10 {
+public class java11 {
     public static void main(String[] args) throws Exception {
         resolution();
     }  
@@ -20,16 +20,20 @@ public class java10 {
     }
 
     public static void otherNumbers(int num1, int num2) {
+        int num = 0;
         if (num1 == num2) {
             System.out.println("Números são iguais, não existe intervalo!");
         } else if (num1 > num2) {
             for (int i = num2+1; i < num1; i++) {
                 System.out.println(i);
+                num += i;
             }
         } else {
             for (int i = num1+1; i < num2; i++) {
                 System.out.println(i);
+                num += i;
             }
         }
+        System.out.println("Soma: " + num);
     }
 }
