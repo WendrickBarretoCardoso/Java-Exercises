@@ -31,7 +31,7 @@ public class java26Repetition {
         System.out.print("\nEscolha um dos Três candidatos:\n1 - Fulano Vermelho\n2 - Sicrano Padre\n3 - Beltrano Gripizinha\nR: ");
         int temp = scan.nextInt();
         while (temp < 1 || temp > 3) {
-            System.out.print("\nInforme um candidato válido.\n R:");
+            System.out.print("\nInforme um candidato válido.\nR: ");
             temp = scan.nextInt();
         }
         return temp;
