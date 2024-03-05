@@ -1,7 +1,6 @@
-## Java-Exercises
+# Java-Exercises
 
-
-#### Lista de exercícios: https://wiki.python.org.br/ListaDeExercicios
+## Lista de exercícios: <https://wiki.python.org.br/ListaDeExercicios>
 
 1. [Estrutura Sequencial](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-sequentialStructure)         18 / 18
 2. [Estrutura De Decisao](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-decisionStructure)         28 / 28
@@ -13,4 +12,4 @@
 8. Exercicios Classes           00 / 17
 9. Lista De Exercicios  Projetos   00 / 03
 
-VAMOS QUE VAMOS!!!!!!!
+VAMOS QUE VAMOS!!!!!!!!
